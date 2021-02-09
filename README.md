@@ -1,3 +1,9 @@
+GENERATE A RANDOM CARD FROM A DECK OF CARDS USING AN API
+
+LIVE DEMO: http://laxman159.github.io/Deck-of-Cards
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
